@@ -9,4 +9,6 @@ else 40 >= speed && speed <= 60
 	  false
 end
 
+def notsafe?(speed)
+  
 end
