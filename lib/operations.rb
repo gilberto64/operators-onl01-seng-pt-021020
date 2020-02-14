@@ -11,6 +11,6 @@ end
 
 def notsafe?(speed)
   
-if(speed) 
+if speed 
   
 end
