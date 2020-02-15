@@ -19,8 +19,6 @@ def not_safe?(speed)
   
 if speed > 60 ? 'true' : 'false'
   
-binding.pry
-  
 elsif speed < 40 ? 'true' : 'false'
   
 elsif 40 >= speed && speed <= 60 ? 'true' : 'false'
