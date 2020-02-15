@@ -1,4 +1,3 @@
-require 'pry'
 
 def unsafe?(speed)
 
@@ -20,9 +19,4 @@ def not_safe?(speed)
  (speed >= 40 && <= 60) ? true : false
 
 end
-
-  
-## if speed >= 40 ? true : false
-## else
-##   speed > 60 ? false : true
 
