@@ -21,5 +21,3 @@ else  40 >= speed && speed <= 60
 end
 
 end
-  
-end
