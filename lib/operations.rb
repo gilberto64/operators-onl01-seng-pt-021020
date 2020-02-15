@@ -17,13 +17,13 @@ end
 
 def not_safe?(speed)
   
-if speed > 60 ? true : false
+if speed > 60 
 
 binding.pry
   
-elsif speed < 40 ? true : false
+elsif speed < 40 
   
-elsif 40 >= speed && speed <= 60 ? true : false
+elsif 40 >= speed && speed <= 60 
 
 end
 
