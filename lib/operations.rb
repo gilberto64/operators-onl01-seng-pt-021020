@@ -14,12 +14,12 @@ end
 
 def notsafe?(speed)
   
-if speed > 60
-  true
-elsif speed < 40
-  true
-else  40 >= speed && speed <= 60
-  false
+if speed >= 60 ? true: false
+  
+elseif speed <= 40 ? true:false 
+  
+elsif 40 >= speed && speed <= 60 ? false:true
+
 end
 
 end
