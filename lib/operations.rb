@@ -12,7 +12,7 @@ end
 
 end
 
-def notsafe?(speed)
+def not_safe?(speed)
   
 if speed >= 60 ? true : false
   
