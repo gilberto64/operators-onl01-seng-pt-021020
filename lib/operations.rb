@@ -21,3 +21,5 @@ elsif speed < 40
 else  40 >= speed && speed <= 60
   false
 end
+
+end
